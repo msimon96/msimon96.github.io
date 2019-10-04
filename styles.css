@@ -1,11 +1,17 @@
 body {
-    background-color: #8080803a;
+    background-color: #8382822f;
     font-size: 16px;
-    border: borderbox;
+    border-bottom: borderbox;
 }
 
-h1, h2 {
-    background-color: #9fc2c988;
+.page {
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1, h2, p, ol, ul {
+    background-color: #9fc2c92d;
+    box-sizing: border-box;
 }
 
 h1 {
@@ -21,12 +27,12 @@ h2 {
 h1, h2, h3 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    border: 2px solid #5D6063;
-
+    border-bottom: 2px solid #5D6063;
 }
 
 p{
     display: block;
+    text-align: center;
 }
 
 ol {
