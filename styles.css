@@ -1,5 +1,5 @@
 body {
-    background-color: #000000d7;
+    background-color: #00000093;
     font-size: 16px;
     border-bottom: borderbox;
 }
@@ -21,6 +21,12 @@ body {
     padding: 0;
     box-sizing: border-box;
     background-color: #9fc2c92d;
+}
+
+.prophoto{
+    background-color: #000000;
+    block-sizing: border-box;
+    display: block;
 }
 
 .index {
